@@ -33,7 +33,7 @@ Este proyecto consiste en una aplicación gráfica desarrollada en Python utiliz
 
 4. Ejecuta el archivo principal con el siguiente comando:
 
-### CAPTURAS DE PANTALLA
+#### Capturas de Pantalla
 
 1._Ventana principal al iniciar la aplicación, mostrando el título, la etiqueta, el campo de texto vacío y los botones "Agregar" y "Limpiar".
 

@@ -1,14 +1,15 @@
 # Universidad Estatal Amazónica
 
-## Facultad de Ingeniería en Tecnologías
+### Facultad de Ingeniería en Tecnologías
 
 ### 2do Año - Programación Orientada a Objetos
 
 ---
+____
 
 # Aplicación GUI Básica para Gestión de Datos
 
-## Autor: Jessica Pesantez
+### Autor: Jessica Pesantez
 
 ---
 
@@ -35,18 +36,25 @@ Este proyecto consiste en una aplicación gráfica desarrollada en Python utiliz
 
 #### Capturas de Pantalla
 
-1._Ventana principal al iniciar la aplicación, mostrando el título, la etiqueta, el campo de texto vacío y los botones "Agregar" y "Limpiar".
+1. ### Código de la aplicación
+Esta imagen muestra el código fuente de una aplicación de escritorio con GUI en Python y la biblioteca Tkinter. Se visualizan las funciones agregar() y limpiar() que manejan la lógica de la aplicación para añadir y borrar datos de una lista.
+![1.jpg](Imagenes/1.jpg)
 
+2. ### GUI con un dato
+La interfaz de usuario muestra el resultado de haber agregado un dato llamado "MINOXIDIL AL 5%". El texto ingresado aparece ahora en la lista de la aplicación, confirmando que la funcionalidad de la función agregar() es correcta.
+![2.jpg](Imagenes/2.jpg)
 
-2._Ingreso de un dato en el campo de texto y su agregado a la lista tras presionar el botón "Agregar".
+3. ### GUI con varios datos
+Aquí se observa la misma GUI con múltiples datos ingresados por el usuario. La lista contiene varios elementos, lo que demuestra que la aplicación puede manejar y mostrar varios datos sucesivamente.
+![3.jpg](Imagenes/3.jpg)
 
+4. ### GUI limpia
+Esta imagen muestra la interfaz en su estado inicial o después de ejecutar la función limpiar(). La lista y el campo de entrada están vacíos, listos para que el usuario ingrese nuevos datos, lo que confirma que la función limpiar() opera según lo esperado.
+![4.jpg](Imagenes/4.jpg)
 
-3._Mensaje de advertencia que aparece cuando se intenta agregar un dato vacío, evidenciando la validación implementada.
-
-
-4._Lista mostrando varios datos agregados correctamente, demostrando que la aplicación maneja múltiples entradas.
-
-5._Lista y campo de texto vacíos luego de presionar el botón "Limpiar", confirmando que la función de limpieza funciona correctamente.
+5. ### Advertencia de campo vacío
+Esta captura de pantalla muestra una ventana de advertencia de error al intentar agregar datos sin ingresar nada en el campo de texto. El mensaje "El campo no puede estar vacio" indica que el código tiene una validación para evitar entradas vacías.
+![5.jpg](Imagenes/5.jpg)
 ____
 
 ### Tecnologías utilizadas

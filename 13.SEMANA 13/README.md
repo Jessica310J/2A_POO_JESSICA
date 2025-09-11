@@ -33,7 +33,8 @@ Este proyecto consiste en una aplicación gráfica desarrollada en Python utiliz
 1. Asegúrate de tener Python 3 instalado en tu sistema.
 
 4. Ejecuta el archivo principal con el siguiente comando:
-
+___
+___
 ### Capturas de Pantalla
 
 1. ### Código de la aplicación

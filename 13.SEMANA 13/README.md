@@ -2,7 +2,7 @@
 
 ### Facultad de Ingeniería en Tecnologías
 
-### 2do Año - Programación Orientada a Objetos
+### 2do Semestre -  Paralelo "A"  - Programación Orientada a Objetos
 
 ---
 ____
@@ -34,7 +34,7 @@ Este proyecto consiste en una aplicación gráfica desarrollada en Python utiliz
 
 4. Ejecuta el archivo principal con el siguiente comando:
 
-#### Capturas de Pantalla
+### Capturas de Pantalla
 
 1. ### Código de la aplicación
 Esta imagen muestra el código fuente de una aplicación de escritorio con GUI en Python y la biblioteca Tkinter. Se visualizan las funciones agregar() y limpiar() que manejan la lógica de la aplicación para añadir y borrar datos de una lista.
